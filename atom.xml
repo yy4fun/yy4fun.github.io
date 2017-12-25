@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.yy4fun.com/"/>
   <updated>2017-12-22T07:47:52.043Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.yy4fun.com/</id>
   
   <author>
     <name>Yukiora</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/12/21/hello-world/"/>
-    <id>http://yoursite.com/2017/12/21/hello-world/</id>
+    <link href="http://www.yy4fun.com/2017/12/21/hello-world/"/>
+    <id>http://www.yy4fun.com/2017/12/21/hello-world/</id>
     <published>2017-12-21T14:33:13.596Z</published>
     <updated>2017-12-22T07:47:52.043Z</updated>
     
